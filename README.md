@@ -8,3 +8,5 @@ They are written in IDL, and are not exactly 'neat'. Some have ben written to ru
 These codes have been written for use of inout CRISPEX files from CRISP at the Swedish Solar Telescope (SST) or HMI/LOS or AIA 1600/1700 from the SDO.
 
 Some have been written for more general use, with an input FITS file.
+
+This list is not exhaustive, and I intend to add to it.
